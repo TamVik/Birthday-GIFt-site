@@ -5,4 +5,4 @@ This is my Birthday GIFt site project from Scrimba
 
 https://tamvik.github.io/Birthday-GIFt-site/
 
-I built his project during the Scrimba course, was using HTML and CSS.
+I built this project during the Scrimba course with using HTML and CSS.
